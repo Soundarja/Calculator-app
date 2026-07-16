@@ -18,3 +18,7 @@ A simple GUI-based arithmatic calculator application built using Python and Tkin
 ```bash
 python python_calculator.py
 ```
+## Download
+
+Download the Windows executable:
+- [python_calculator.exe](./python_calculator(1).exe)

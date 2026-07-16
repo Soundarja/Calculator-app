@@ -21,4 +21,4 @@ python python_calculator.py
 ## Download
 
 Download the Windows executable:
-- [python_calculator (1).exe](./python_calculator (1).exe)
+- [Download Calculator](./python_calculator%20(1).exe)
